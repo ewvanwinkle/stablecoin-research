@@ -1,4 +1,4 @@
-# Chapter 8: Open Research Questions for PE Due Diligence
+# Open Questions for PE Due Diligence: Stablecoins, CBDCs, and Digital Assets
 
 This document outlines critical open questions for our firm's ongoing research and due diligence into the stablecoin, CBDC, and broader digital asset ecosystem. These questions are designed to probe strategic, operational, regulatory, and technical aspects to identify key investment theses and risks.
 

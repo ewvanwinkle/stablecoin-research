@@ -1,8 +1,8 @@
-# Chapter 9: Actionable Investment Theses
+# 9. Actionable Investment Theses
 
 This chapter synthesizes our comprehensive research into a set of actionable, high-level investment theses for Marchese PE. These theses are designed to align with our firm's investment philosophy and guide our capital allocation strategy within the digital asset ecosystem.
 
-## Thesis 1: Invest in the "Picks and Shovels" of Regulatory Compliance
+### Thesis 1: Invest in the "Picks and Shovels" of Regulatory Compliance
 
 **The "What":** The global regulatory crackdown, particularly the GENIUS Act and MiCA, has transformed compliance from a best practice into a legally-mandated, non-negotiable cost of doing business. The most attractive, risk-adjusted returns are not in the highly-competitive issuance of stablecoins themselves, but in the infrastructure that enables compliance.
 
@@ -13,7 +13,7 @@ This chapter synthesizes our comprehensive research into a set of actionable, hi
 
 **The "Why":** This thesis is attractive because it benefits directly from increasing regulation, which acts as a powerful tailwind. The revenue is often recurring (SaaS subscriptions, ongoing attestations) and is tied to the growth of the entire market, not the success of a single stablecoin issuer.
 
-## Thesis 2: Specialize in the Tokenization of Illiquid Real-World Assets
+### Thesis 2: Specialize in the Tokenization of Illiquid Real-World Assets
 
 **The "What":** While mega-asset managers like BlackRock will dominate the tokenization of liquid, public assets like T-bills, a significant opportunity exists for specialized platforms focused on bringing traditionally illiquid assets onto the blockchain.
 
@@ -24,7 +24,7 @@ This chapter synthesizes our comprehensive research into a set of actionable, hi
 
 **The "Why":** This thesis targets niche markets where specialized expertise can create a defensible moat. It avoids direct competition with financial giants and focuses on areas where the core benefits of blockchain—liquidity, transparency, fractionalization—provide the most value.
 
-## Thesis 3: Bet on the "Neutral" Infrastructure of a Multi-Polar Digital World
+### Thesis 3: Bet on the "Neutral" Infrastructure of a Multi-Polar Digital World
 
 **The "What":** The geopolitical landscape is cleaving the digital currency world into competing blocs (USD vs. EUR vs. CNY). The most resilient long-term investments may be in the "neutral" infrastructure that can service all of these emerging ecosystems.
 
