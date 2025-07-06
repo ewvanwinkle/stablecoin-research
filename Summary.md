@@ -2,7 +2,6 @@
 
 Stablecoins and Central Bank Digital Currencies (CBDCs) are at the forefront of a fundamental transformation of the global financial system. Stablecoins, privately issued digital assets pegged to stable reserves, have already achieved significant scale, with 2024 transaction volumes surpassing the combined throughput of payment giants like Visa and Mastercard [\[8\]]. This demonstrates their evolution from a niche crypto-asset into a core component of global payment infrastructure. Concurrently, 137 countries, representing 98% of global GDP, are actively exploring CBDCs to modernize their financial systems and maintain monetary sovereignty in the digital age [\[28\]].
 
-> [!NOTE]
 > **A Key Insight: The "Picks and Shovels" Opportunity**
 > Some of the most compelling, risk-adjusted opportunities may not be in the currencies themselves, but in the critical **"picks and shovels" infrastructure** that enables their use. It's worth paying attention to three key verticals:
 > 1.  **The Enabling Layer:** Custody, compliance, and data oracle solutions.

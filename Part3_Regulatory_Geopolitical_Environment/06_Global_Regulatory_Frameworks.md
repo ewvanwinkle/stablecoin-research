@@ -11,7 +11,6 @@ The "Guiding and Establishing National Innovation for U.S. Stablecoins Act" (GEN
 *   **Transparency:** Monthly public disclosures of reserve composition and annual independent audits are mandated to ensure transparency and accountability [\[6\]].
 *   **Key Prohibition:** A critical and defining feature of the GENIUS Act is its explicit **prohibition on issuers paying interest or yield** to stablecoin holders [\[41\]], [\[44\]]. This is intended to ensure stablecoins function as pure payment instruments rather than speculative investments, thereby protecting the traditional banking system from disintermediation.
 
-> [!WARNING]
 > **The Ban on Yield is a Critical Constraint**
 > The prohibition on paying interest directly on payment stablecoins within the U.S. is the single most important feature of the GENIUS Act. It fundamentally bifurcates the market between pure payment stablecoins and separate, regulated yield-bearing products (like tokenized money market funds). This creates a regulatory moat for the traditional banking system and will shape product development and investment strategy in the U.S. market.
 

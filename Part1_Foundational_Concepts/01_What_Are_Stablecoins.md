@@ -2,7 +2,6 @@
 
 Stablecoins are a class of digital assets engineered to maintain a stable value relative to an external reference asset. This reference is most commonly a traditional fiat currency, such as the U.S. dollar, but can also be commodities like gold or even a basket of other assets [\[55\]]. The foundational concept for stablecoins emerged as a direct response to the extreme price volatility inherent in early cryptocurrencies like Bitcoin, which hindered their use as a reliable medium of exchange [\[14\]].
 
-> [!NOTE]
 > **A Bridge Between Two Worlds**
 > Stablecoins are best understood as the critical bridge connecting the legacy financial system (TradFi) with the emerging world of decentralized finance (DeFi). They offer the stability of traditional money combined with the speed and efficiency of digital assets [\[10\]].
 
