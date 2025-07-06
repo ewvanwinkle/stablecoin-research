@@ -1,4 +1,4 @@
-# **StaStablecoins: A Strategic Overview for Private Equity**
+# **Stablecoins: A Strategic Overview for Private Equity**
 
 ## **I. Executive Summary: Stablecoins – Bridging Traditional Finance and Digital Assets**
 
@@ -170,4 +170,23 @@ In conclusion, stablecoins are no longer merely a niche cryptocurrency phenomeno
 
 #### **Works cited**
 
-1. What Are Stablecoins? Roles, Use Cases, and Types of Stablecoin - AIBC - World, https://aibc.world/learn-crypto-hub/what-are-stablecoins/ 2. Stablecoins: Everything You Need to Know - Chainlink, https://chain.link/education-hub/stablecoins 3. Stablecoins Explained: Types, Use Cases, and Future Trends - AlphaPoint, https://alphapoint.com/blog/stablecoin-use-cases/ 4. Stablecoin Q1 2025: Insights on Trends & Regulation - Amberdata Blog, https://blog.amberdata.io/stablecoin-q1-2025-insights-on-trends-regulation 5. June 2025 Digital Assets Industry Update: Stablecoin Regulation Moves Closer to Reality, https://www.wolfandco.com/resources/insights/june-2025-digital-assets-industry-update-stablecoin-regulation-moves-closer-to-reality/ 6. The GENIUS Act: A New Federal Framework for Stablecoin Issuers, https://www.pillsburylaw.com/en/news-and-insights/genius-act-stablecoin-issuers.html 7. Digital Money - Treasury, https://home.treasury.gov/system/files/221/TBACCharge2Q22025.pdf 8. Banks and Stablecoins: a first step towards bridging traditional finance and the crypto world, https://www.finextra.com/blogposting/28798/banks-and-stablecoins-a-first-step-towards-bridging-traditional-finance-and-the-crypto-world 9. Behind the hype I: Stablecoin explained simply - neosfer, https://neosfer.de/en/stablecoins/ 10. Rewriting the way money moves with stablecoins - Foundation Capital, https://foundationcapital.com/rewriting-the-way-money-moves-with-stablecoins/ 11. Fiat-backed stablecoin - MetaWealth, https://www.metawealth.co/glossary/fiat-backed-stablecoin 12. Stablecoin - Wikipedia, https://en.wikipedia.org/wiki/Stablecoin 13. Top 10 Examples of Stablecoins Giving You Crypto Control - Webisoft, https://webisoft.com/articles/examples-of-stablecoins/ 14. The History of Stablecoins - Deltec Bank and Trust, https://www.deltecbank.com/news-and-insights/the-history-of-stablecoins/ 15. What Are CBDCs & Stablecoins? | Blog - Juniper Research, https://www.juniperresearch.com/resources/blog/what-are-cbdcs-stablecoins-beginners-guide-blog/ 16. Algorithmic stablecoins, explained - Kraken, https://www.kraken.com/learn/algorithmic-stablecoins 17. Exploring Early Stablecoin Projects: The Foundations of Stability in Crypto - BlockApps Inc., https://blockapps.net/blog/exploring-early-stablecoin-projects-the-foundations-of-stability-in-crypto/ 18. US Crypto Policy Tracker Regulatory Developments - Latham & Watkins LLP, https://www.lw.com/en/us-crypto-policy-tracker/regulatory-developments 19. Stablecoins Now Comprise Over 1% of U.S. Dollar Supply | Bitget News, https://www.bitget.com/news/detail/12560604851114
+
+1. "What Are Stablecoins? Roles, Use Cases, and Types of Stablecoin" by AIBC - World. https://aibc.world/learn-crypto-hub/what-are-stablecoins/
+2. "Stablecoins: Everything You Need to Know" by Chainlink. https://chain.link/education-hub/stablecoins
+3. "Stablecoins Explained: Types, Use Cases, and Future Trends" by AlphaPoint. https://alphapoint.com/blog/stablecoin-use-cases/
+4. "Stablecoin Q1 2025: Insights on Trends & Regulation" by Amberdata Blog. https://blog.amberdata.io/stablecoin-q1-2025-insights-on-trends-regulation
+5. "June 2025 Digital Assets Industry Update: Stablecoin Regulation Moves Closer to Reality" by Wolf and Co. https://www.wolfandco.com/resources/insights/june-2025-digital-assets-industry-update-stablecoin-regulation-moves-closer-to-reality/
+6. "The GENIUS Act: A New Federal Framework for Stablecoin Issuers" by Pillsbury Law. https://www.pillsburylaw.com/en/news-and-insights/genius-act-stablecoin-issuers.html
+7. "Digital Money" by Treasury. https://home.treasury.gov/system/files/221/TBACCharge2Q22025.pdf
+8. "Banks and Stablecoins: a first step towards bridging traditional finance and the crypto world" by Finextra. https://www.finextra.com/blogposting/28798/banks-and-stablecoins-a-first-step-towards-bridging-traditional-finance-and-the-crypto-world
+9. "Behind the hype I: Stablecoin explained simply" by neosfer. https://neosfer.de/en/stablecoins/
+10. "Rewriting the way money moves with stablecoins" by Foundation Capital. https://foundationcapital.com/rewriting-the-way-money-moves-with-stablecoins/
+11. "Fiat-backed stablecoin" by MetaWealth. https://www.metawealth.co/glossary/fiat-backed-stablecoin
+12. "Stablecoin" by Wikipedia. https://en.wikipedia.org/wiki/Stablecoin
+13. "Top 10 Examples of Stablecoins Giving You Crypto Control" by Webisoft. https://webisoft.com/articles/examples-of-stablecoins/
+14. "The History of Stablecoins" by Deltec Bank and Trust. https://www.deltecbank.com/news-and-insights/the-history-of-stablecoins/
+15. "What Are CBDCs & Stablecoins? | Blog" by Juniper Research. https://www.juniperresearch.com/resources/blog/what-are-cbdcs-stablecoins-beginners-guide-blog/
+16. "Algorithmic stablecoins, explained" by Kraken. https://www.kraken.com/learn/algorithmic-stablecoins
+17. "Exploring Early Stablecoin Projects: The Foundations of Stability in Crypto" by BlockApps Inc. https://blockapps.net/blog/exploring-early-stablecoin-projects-the-foundations-of-stability-in-crypto/
+18. "US Crypto Policy Tracker Regulatory Developments" by Latham & Watkins LLP. https://www.lw.com/en/us-crypto-policy-tracker/regulatory-developments
+19. "Stablecoins Now Comprise Over 1% of U.S. Dollar Supply | Bitget News" by Bitget News. https://www.bitget.com/news/detail/12560604851114
