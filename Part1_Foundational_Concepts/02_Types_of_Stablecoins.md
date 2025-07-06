@@ -22,13 +22,13 @@ graph TD
         D["User's<br/>Digital Wallet"]
     end
 
-    A -- "1. Sends $1,000 Fiat" --> B
-    B -- "2. Confirms Receipt" --> C
-    C -- "3. Mints 1,000 Tokens" --> D
+    A -- "Sends $1,000 Fiat" --> B
+    B -- "Confirms Receipt" --> C
+    C -- "Mints 1,000 Tokens" --> D
 
-    D -- "4. Sends 1,000 Tokens<br/>for Redemption" --> C
-    C -- "5. Burns Tokens" --> B
-    B -- "6. Returns $1,000 Fiat" --> A
+    D -- "Sends 1,000 Tokens<br/>for Redemption" --> C
+    C -- "Burns Tokens" --> B
+    B -- "Returns $1,000 Fiat" --> A
 
     subgraph "Arbitrage Mechanism (Maintains Peg)"
         M1["Market Price > $1.00"]
@@ -57,11 +57,11 @@ graph TD
         E["Liquidation Bot"]
     end
 
-    A -- "1. Deposits $150 of ETH<br/>(Over-collateralization)" --> B
-    B -- "2. Mints $100 of Stablecoins" --> C
+    A -- "Deposits $150 of ETH<br/>(Over-collateralization)" --> B
+    B -- "Mints $100 of Stablecoins" --> C
 
-    C -- "3. Repays $100 Stablecoin Loan<br/>(+ Stability Fee)" --> B
-    B -- "4. Unlocks & Returns<br/>$150 of ETH" --> A
+    C -- "Repays $100 Stablecoin Loan<br/>(+ Stability Fee)" --> B
+    B -- "Unlocks & Returns<br/>$150 of ETH" --> A
 
     subgraph "Liquidation Mechanism"
         D -- "Monitors ETH Price" --> B
