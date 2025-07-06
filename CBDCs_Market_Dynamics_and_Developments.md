@@ -24,18 +24,18 @@ The following table provides a concise overview of the current global digital mo
 
 **Table 1.1: Global Digital Money Landscape Overview (2024-2025)**
 
-| Metric | Value (2024-2025) | Source |
-| :---- | :---- | :---- |
-| Total Stablecoin Market Capitalization (Feb 2024\) | $138 Billion | 9 |
-| Total Stablecoin Market Capitalization (May 2025\) | Over $230 Billion | 9 |
-| Stablecoin Transaction Volume (2024) | $27.6 Trillion | 6 |
-| Comparison to Visa & Mastercard Combined Transaction Volume (2024) | Surpassed | 8 |
-| Projected Stablecoin Market Capitalization (by 2028\) | $2 Trillion | 11 |
-| Percentage of U.S. Dollar (M2) Supply Represented by Stablecoins | 1.1% | 13 |
-| Countries/Currency Unions Exploring CBDCs (July 2025\) | 137 (98% of global GDP) | 16 |
-| Countries in Advanced CBDC Exploration Phase (July 2025\) | 72 | 16 |
-| Ongoing CBDC Pilot Projects (July 2025\) | 49 | 16 |
-| Fully Launched CBDCs (July 2025\) | 3 (Bahamas, Jamaica, Nigeria) | 16 |
+| Metric                                                             | Value (2024-2025)             | Source |
+| :----------------------------------------------------------------- | :---------------------------- | :----- |
+| Total Stablecoin Market Capitalization (Feb 2024\)                 | $138 Billion                  | 9      |
+| Total Stablecoin Market Capitalization (May 2025\)                 | Over $230 Billion             | 9      |
+| Stablecoin Transaction Volume (2024)                               | $27.6 Trillion                | 6      |
+| Comparison to Visa & Mastercard Combined Transaction Volume (2024) | Surpassed                     | 8      |
+| Projected Stablecoin Market Capitalization (by 2028\)              | $2 Trillion                   | 11     |
+| Percentage of U.S. Dollar (M2) Supply Represented by Stablecoins   | 1.1%                          | 13     |
+| Countries/Currency Unions Exploring CBDCs (July 2025\)             | 137 (98% of global GDP)       | 16     |
+| Countries in Advanced CBDC Exploration Phase (July 2025\)          | 72                            | 16     |
+| Ongoing CBDC Pilot Projects (July 2025\)                           | 49                            | 16     |
+| Fully Launched CBDCs (July 2025\)                                  | 3 (Bahamas, Jamaica, Nigeria) | 16     |
 
 This table serves as a powerful introductory snapshot, immediately quantifying the significant growth and scale of both stablecoins and CBDCs. By presenting these key metrics side-by-side, it visually underscores the profound digital transformation occurring in global finance and establishes the report's central premise with concrete data. It allows for a quick grasp of the magnitude of the shift and the current state of play.
 
