@@ -1,0 +1,5 @@
+# Directories
+.archive/
+
+# macOS
+.DS_Store 
