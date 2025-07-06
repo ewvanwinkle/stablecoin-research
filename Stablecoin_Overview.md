@@ -1,4 +1,4 @@
-# **StaStablecoins: A Strategic Overview for Private Equity**
+# **Stablecoins: A Strategic Overview for Private Equity**
 
 ## **I. Executive Summary: Stablecoins – Bridging Traditional Finance and Digital Assets**
 
@@ -33,12 +33,12 @@ The primary types of stablecoins include:
 Despite the aim for stability, maintaining the peg remains a continuous challenge, not a guaranteed outcome. Information from various sources indicates that even prominent stablecoins like Tether (USDT) have experienced fluctuations , and Tether itself faced scrutiny over the transparency of its reserves, having been fined for not being fully backed during certain periods. Furthermore, events like the de-pegging of USDC in March 2023 and correlation issues with DAI illustrate that "stability" is a dynamic target. This highlights that the robustness of a stablecoin's peg is critically dependent on its collateral, transparency, and the economic mechanisms designed to defend it. For investors, this underscores the paramount importance of conducting thorough due diligence on reserve audits, regulatory compliance, and the quality of the underlying collateral, even for assets seemingly designed for stability.  
 **Table 1: Stablecoin Types at a Glance**
 
-| Type | Collateral Mechanism | Key Characteristics/Pros | Key Risks/Challenges | Prominent Examples |
-| :---- | :---- | :---- | :---- | :---- |
-| Fiat-Collateralized | Off-chain fiat reserves | High stability, regulatory compliance | Centralization, transparency of reserves | USDT, USDC, PYUSD, TUSD |
-| Digital Asset-Collateralized | On-chain crypto overcollateralization | Decentralized, censorship-resistant | Volatility of collateral, overcollateralization needs | DAI, Havven (nUSD), WBTC |
-| Commodity-Collateralized | Off-chain physical commodities | Tangible asset exposure, inflation hedge | Centralization, custody of physical assets | XAUt, PAXG |
-| Algorithmic | Algorithmic supply adjustment (no reserves) | Capital efficient, highly decentralized | Systemic fragility, difficulty maintaining peg | AMPL, UST (historical), USDD |
+| Type                         | Collateral Mechanism                        | Key Characteristics/Pros                 | Key Risks/Challenges                                  | Prominent Examples           |
+| :--------------------------- | :------------------------------------------ | :--------------------------------------- | :---------------------------------------------------- | :--------------------------- |
+| Fiat-Collateralized          | Off-chain fiat reserves                     | High stability, regulatory compliance    | Centralization, transparency of reserves              | USDT, USDC, PYUSD, TUSD      |
+| Digital Asset-Collateralized | On-chain crypto overcollateralization       | Decentralized, censorship-resistant      | Volatility of collateral, overcollateralization needs | DAI, Havven (nUSD), WBTC     |
+| Commodity-Collateralized     | Off-chain physical commodities              | Tangible asset exposure, inflation hedge | Centralization, custody of physical assets            | XAUt, PAXG                   |
+| Algorithmic                  | Algorithmic supply adjustment (no reserves) | Capital efficient, highly decentralized  | Systemic fragility, difficulty maintaining peg        | AMPL, UST (historical), USDD |
 
 ## **III. A Brief History & Evolution of Stablecoins**
 
@@ -108,16 +108,16 @@ Recent technological advancements and integrations include:
 
 **Table 3: Recent Stablecoin Milestones (2024-2025)**
 
-| Date | Event | Significance | Market Impact |
-| :---- | :---- | :---- | :---- |
-| Jan 23, 2025 | US Executive Order | Formal U.S. endorsement of stablecoins as essential financial instruments. | Increased institutional confidence and legitimacy. |
-| March 26, 2025 | Stablecoin Act (GENIUS Act) Introduction | Proposes clear federal oversight for payment stablecoins, including interest payments. | Sets a path for interest-bearing stablecoins and clearer operational guidelines. |
-| April 24, 2025 | FRB Rescinds Previous Guidance | Federal Reserve removes restrictions on bank engagement in crypto activities. | De-risks bank participation, fostering broader bank engagement with digital assets. |
-| May 19, 2025 | Senate Advances GENIUS Act | Key procedural hurdle removed, allowing the bill to enter final debate phase. | Signals strong bipartisan support and imminent federal regulation. |
-| Early 2025 | EU MiCA Implementation | Europe's Markets in Crypto-Assets Regulation provides comprehensive regulatory clarity. | Allows regulated financial institutions in the EU to issue/support stablecoins compliantly. |
-| June 18, 2025 | GENIUS Act Passes Senate | The bill obtains significant support (68 senators) and moves to the House. | Establishes a clear, pro-growth legal framework for stablecoins in the U.S. |
-| Early 2025 | PayPal USD (PYUSD) Growth | PYUSD surged from $399M to $775M in three months. | Reflects accelerated adoption through PayPal's global network and multi-chain access. |
-| Ongoing 2024-2025 | Stablecoin Market Cap & Transaction Volume Growth | Surpassed $220B market cap, 1% of USD supply; 2024 transaction volume ($27.6T) surpassed Visa/Mastercard combined. | Stablecoins are becoming systemically important, indicating broader real-world utility. |
+| Date              | Event                                             | Significance                                                                                                       | Market Impact                                                                               |
+| :---------------- | :------------------------------------------------ | :----------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------ |
+| Jan 23, 2025      | US Executive Order                                | Formal U.S. endorsement of stablecoins as essential financial instruments.                                         | Increased institutional confidence and legitimacy.                                          |
+| March 26, 2025    | Stablecoin Act (GENIUS Act) Introduction          | Proposes clear federal oversight for payment stablecoins, including interest payments.                             | Sets a path for interest-bearing stablecoins and clearer operational guidelines.            |
+| April 24, 2025    | FRB Rescinds Previous Guidance                    | Federal Reserve removes restrictions on bank engagement in crypto activities.                                      | De-risks bank participation, fostering broader bank engagement with digital assets.         |
+| May 19, 2025      | Senate Advances GENIUS Act                        | Key procedural hurdle removed, allowing the bill to enter final debate phase.                                      | Signals strong bipartisan support and imminent federal regulation.                          |
+| Early 2025        | EU MiCA Implementation                            | Europe's Markets in Crypto-Assets Regulation provides comprehensive regulatory clarity.                            | Allows regulated financial institutions in the EU to issue/support stablecoins compliantly. |
+| June 18, 2025     | GENIUS Act Passes Senate                          | The bill obtains significant support (68 senators) and moves to the House.                                         | Establishes a clear, pro-growth legal framework for stablecoins in the U.S.                 |
+| Early 2025        | PayPal USD (PYUSD) Growth                         | PYUSD surged from $399M to $775M in three months.                                                                  | Reflects accelerated adoption through PayPal's global network and multi-chain access.       |
+| Ongoing 2024-2025 | Stablecoin Market Cap & Transaction Volume Growth | Surpassed $220B market cap, 1% of USD supply; 2024 transaction volume ($27.6T) surpassed Visa/Mastercard combined. | Stablecoins are becoming systemically important, indicating broader real-world utility.     |
 
 ## **V. Future Directions & Strategic Outlook**
 
@@ -170,4 +170,22 @@ In conclusion, stablecoins are no longer merely a niche cryptocurrency phenomeno
 
 #### **Works cited**
 
-1. What Are Stablecoins? Roles, Use Cases, and Types of Stablecoin - AIBC - World, https://aibc.world/learn-crypto-hub/what-are-stablecoins/ 2. Stablecoins: Everything You Need to Know - Chainlink, https://chain.link/education-hub/stablecoins 3. Stablecoins Explained: Types, Use Cases, and Future Trends - AlphaPoint, https://alphapoint.com/blog/stablecoin-use-cases/ 4. Stablecoin Q1 2025: Insights on Trends & Regulation - Amberdata Blog, https://blog.amberdata.io/stablecoin-q1-2025-insights-on-trends-regulation 5. June 2025 Digital Assets Industry Update: Stablecoin Regulation Moves Closer to Reality, https://www.wolfandco.com/resources/insights/june-2025-digital-assets-industry-update-stablecoin-regulation-moves-closer-to-reality/ 6. The GENIUS Act: A New Federal Framework for Stablecoin Issuers, https://www.pillsburylaw.com/en/news-and-insights/genius-act-stablecoin-issuers.html 7. Digital Money - Treasury, https://home.treasury.gov/system/files/221/TBACCharge2Q22025.pdf 8. Banks and Stablecoins: a first step towards bridging traditional finance and the crypto world, https://www.finextra.com/blogposting/28798/banks-and-stablecoins-a-first-step-towards-bridging-traditional-finance-and-the-crypto-world 9. Behind the hype I: Stablecoin explained simply - neosfer, https://neosfer.de/en/stablecoins/ 10. Rewriting the way money moves with stablecoins - Foundation Capital, https://foundationcapital.com/rewriting-the-way-money-moves-with-stablecoins/ 11. Fiat-backed stablecoin - MetaWealth, https://www.metawealth.co/glossary/fiat-backed-stablecoin 12. Stablecoin - Wikipedia, https://en.wikipedia.org/wiki/Stablecoin 13. Top 10 Examples of Stablecoins Giving You Crypto Control - Webisoft, https://webisoft.com/articles/examples-of-stablecoins/ 14. The History of Stablecoins - Deltec Bank and Trust, https://www.deltecbank.com/news-and-insights/the-history-of-stablecoins/ 15. What Are CBDCs & Stablecoins? | Blog - Juniper Research, https://www.juniperresearch.com/resources/blog/what-are-cbdcs-stablecoins-beginners-guide-blog/ 16. Algorithmic stablecoins, explained - Kraken, https://www.kraken.com/learn/algorithmic-stablecoins 17. Exploring Early Stablecoin Projects: The Foundations of Stability in Crypto - BlockApps Inc., https://blockapps.net/blog/exploring-early-stablecoin-projects-the-foundations-of-stability-in-crypto/ 18. US Crypto Policy Tracker Regulatory Developments - Latham & Watkins LLP, https://www.lw.com/en/us-crypto-policy-tracker/regulatory-developments 19. Stablecoins Now Comprise Over 1% of U.S. Dollar Supply | Bitget News, https://www.bitget.com/news/detail/12560604851114
+1. "What Are Stablecoins? Roles, Use Cases, and Types of Stablecoin" by AIBC - World. https://aibc.world/learn-crypto-hub/what-are-stablecoins/
+2. "Stablecoins: Everything You Need to Know" by Chainlink. https://chain.link/education-hub/stablecoins
+3. "Stablecoins Explained: Types, Use Cases, and Future Trends" by AlphaPoint. https://alphapoint.com/blog/stablecoin-use-cases/
+4. "Stablecoin Q1 2025: Insights on Trends & Regulation" by Amberdata Blog. https://blog.amberdata.io/stablecoin-q1-2025-insights-on-trends-regulation
+5. "June 2025 Digital Assets Industry Update: Stablecoin Regulation Moves Closer to Reality" by Wolf and Co. https://www.wolfandco.com/resources/insights/june-2025-digital-assets-industry-update-stablecoin-regulation-moves-closer-to-reality/
+6. "The GENIUS Act: A New Federal Framework for Stablecoin Issuers" by Pillsbury Law. https://www.pillsburylaw.com/en/news-and-insights/genius-act-stablecoin-issuers.html
+7. "Digital Money" by Treasury. https://home.treasury.gov/system/files/221/TBACCharge2Q22025.pdf
+8. "Banks and Stablecoins: a first step towards bridging traditional finance and the crypto world" by Finextra. https://www.finextra.com/blogposting/28798/banks-and-stablecoins-a-first-step-towards-bridging-traditional-finance-and-the-crypto-world
+9. "Behind the hype I: Stablecoin explained simply" by neosfer. https://neosfer.de/en/stablecoins/
+10. "Rewriting the way money moves with stablecoins" by Foundation Capital. https://foundationcapital.com/rewriting-the-way-money-moves-with-stablecoins/
+11. "Fiat-backed stablecoin" by MetaWealth. https://www.metawealth.co/glossary/fiat-backed-stablecoin
+12. "Stablecoin" by Wikipedia. https://en.wikipedia.org/wiki/Stablecoin
+13. "Top 10 Examples of Stablecoins Giving You Crypto Control" by Webisoft. https://webisoft.com/articles/examples-of-stablecoins/
+14. "The History of Stablecoins" by Deltec Bank and Trust. https://www.deltecbank.com/news-and-insights/the-history-of-stablecoins/
+15. "What Are CBDCs & Stablecoins? | Blog" by Juniper Research. https://www.juniperresearch.com/resources/blog/what-are-cbdcs-stablecoins-beginners-guide-blog/
+16. "Algorithmic stablecoins, explained" by Kraken. https://www.kraken.com/learn/algorithmic-stablecoins
+17. "Exploring Early Stablecoin Projects: The Foundations of Stability in Crypto" by BlockApps Inc. https://blockapps.net/blog/exploring-early-stablecoin-projects-the-foundations-of-stability-in-crypto/
+18. "US Crypto Policy Tracker Regulatory Developments" by Latham & Watkins LLP. https://www.lw.com/en/us-crypto-policy-tracker/regulatory-developments
+19. "Stablecoins Now Comprise Over 1% of U.S. Dollar Supply | Bitget News" by Bitget News. https://www.bitget.com/news/detail/12560604851114
