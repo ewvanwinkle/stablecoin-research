@@ -27,7 +27,6 @@ The market is highly concentrated, with two primary issuers accounting for the v
 *   **PayPal USD (PYUSD):** A significant new entrant, PYUSD is issued by Paxos Trust Company and integrated directly into PayPal's massive global network. This has allowed for rapid adoption, with its market cap surging from $399 million to $775 million in just three months in early 2025 [\[22\]]. PYUSD's primary use case is for seamless merchant payments within the PayPal ecosystem.
 *   **DAI:** As the leading decentralized stablecoin, Dai is issued by the MakerDAO protocol and backed by a diversified basket of on-chain crypto assets [\[55\]]. It maintains a smaller market capitalization (around $3.18 billion as of April 2025) and is primarily used within the DeFi ecosystem for lending, borrowing, and trading [\[21\]].
 
-> [!NOTE]
 > **The Core Market Tension**
 > The competitive dynamic between the established players highlights a key market tension: **Tether's deep liquidity and network effects** versus **Circle's strategy of regulatory compliance and transparency**. While institutional adoption trends favor regulated options like USDC, the multi-chain liquidity of USDT ensures its continued dominance, particularly in global trading and less-regulated jurisdictions [\[21\]]. The rapid rise of PYUSD underscores the power of leveraging existing, large-scale distribution networks to drive adoption.
 
